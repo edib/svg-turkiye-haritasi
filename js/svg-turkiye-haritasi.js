@@ -25,6 +25,7 @@ function svgturkiyeharitasi() {
     }
   );
 
+
   element.addEventListener(
     'mouseout',
     function (event) {
